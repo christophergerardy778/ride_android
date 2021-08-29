@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">In Ride</string>
+
+    <string name="login_text_placeholder">
+        Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit.
+        Libero, interdum diam arcu etiam purus.
+    </string>
+
+    <string name="login_text">
+        Login
+    </string>
+
+    <string name="mapbox_token">
+        pk.eyJ1IjoiY2hyaXN0b3BoZXJnZXJhcmR5Nzc4IiwiYSI6ImNrc2pja3BtbTJjazAydXF0cDZsMmgydmMifQ.bSLk_stO9DFBnXzyeUKLBQ
+    </string>
+
+    <string name="map_view_where_to">
+        Where to ?
+    </string>
+
+    <string name="login_welcome_back">
+        "Welcome \nback"
+    </string>
+
+    <string name="login_text_hint">
+        Login in your account
+    </string>
+    <string name="password_text_field">password</string>
+    <string name="auth_o_text">o</string>
+    <string name="auth_facebook_text">Facebook</string>
+    <string name="auth_google_text">Google</string>
+    <string name="login_forgot_your_password">forgot your password?</string>
+    <string name="email_text_field">Email</string>
+    <string name="create_account_text">"Create \nAccount"</string>
+    <string name="sign_up_text_bottom">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Libero, interdum diam arcu etiam purus.</string>
+</resources>
