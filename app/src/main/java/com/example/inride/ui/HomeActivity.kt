@@ -126,5 +126,4 @@ class HomeActivity : AppCompatActivity(), OnMapReadyCallback,
         super.onStop()
         mapView.onStop()
     }
-
 }
