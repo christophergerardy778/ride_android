@@ -125,6 +125,7 @@ class HomeActivity : AppCompatActivity(), OnMapReadyCallback,
             .profile(DirectionsCriteria.PROFILE_DRIVING)
             .build()
 
+
         client.enqueueCall(object : Callback<DirectionsResponse> {
             override fun onResponse(
                 call: Call<DirectionsResponse>,
